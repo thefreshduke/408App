@@ -10,13 +10,13 @@ import Foundation
 import UIKit
 
 class logInViewController : UIViewController {
+    
     @IBOutlet var LogInLabel: UILabel!
     @IBOutlet var logInUsername: UITextField!
     @IBOutlet var logInPassword: UITextField!
     @IBOutlet var logInSavePasswordLabel: UILabel!
     @IBOutlet var logInsavePasswordSwitch: UISwitch!
     
-    // Currently allows login as long as neither text field is empty
     @IBAction func logInActionButton(sender: AnyObject) {
         if logInUsername.text != "" && logInPassword.text != "" {
             self.performSegueWithIdentifier("LogInSegue", sender: self)
