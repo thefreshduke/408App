@@ -14,7 +14,10 @@
 		6F80E4CB1B9414DF00A1447B /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6F80E4C91B9414DF00A1447B /* LaunchScreen.xib */; };
 		6F80E4D71B9414DF00A1447B /* _08AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F80E4D61B9414DF00A1447B /* _08AppTests.swift */; };
 		6F80E4E71B941A1F00A1447B /* LogInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F80E4E61B941A1F00A1447B /* LogInViewController.swift */; };
+<<<<<<< HEAD
 		6F83E0251B9443CB0008F593 /* TestFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F83E0241B9443CB0008F593 /* TestFile.swift */; };
+=======
+>>>>>>> 3db075c574a561594d51b1f7d9181a4f8e582a30
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,7 +42,10 @@
 		6F80E4D51B9414DF00A1447B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6F80E4D61B9414DF00A1447B /* _08AppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _08AppTests.swift; sourceTree = "<group>"; };
 		6F80E4E61B941A1F00A1447B /* LogInViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LogInViewController.swift; sourceTree = SOURCE_ROOT; };
+<<<<<<< HEAD
 		6F83E0241B9443CB0008F593 /* TestFile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestFile.swift; sourceTree = "<group>"; };
+=======
+>>>>>>> 3db075c574a561594d51b1f7d9181a4f8e582a30
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,7 +90,10 @@
 				6F80E4C01B9414DF00A1447B /* AppDelegate.swift */,
 				6F80E4C21B9414DF00A1447B /* ViewController.swift */,
 				6F80E4E61B941A1F00A1447B /* LogInViewController.swift */,
+<<<<<<< HEAD
 				6F83E0241B9443CB0008F593 /* TestFile.swift */,
+=======
+>>>>>>> 3db075c574a561594d51b1f7d9181a4f8e582a30
 				6F80E4C41B9414DF00A1447B /* Main.storyboard */,
 				6F80E4C71B9414DF00A1447B /* Images.xcassets */,
 				6F80E4C91B9414DF00A1447B /* LaunchScreen.xib */,
@@ -219,7 +228,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				6F80E4C31B9414DF00A1447B /* ViewController.swift in Sources */,
+<<<<<<< HEAD
 				6F83E0251B9443CB0008F593 /* TestFile.swift in Sources */,
+=======
+>>>>>>> 3db075c574a561594d51b1f7d9181a4f8e582a30
 				6F80E4C11B9414DF00A1447B /* AppDelegate.swift in Sources */,
 				6F80E4E71B941A1F00A1447B /* LogInViewController.swift in Sources */,
 			);

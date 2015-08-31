@@ -2,6 +2,10 @@
 <Workspace
    version = "1.0">
    <FileRef
+<<<<<<< HEAD
       location = "self:408App.xcodeproj">
+=======
+      location = "self:">
+>>>>>>> 3db075c574a561594d51b1f7d9181a4f8e582a30
    </FileRef>
 </Workspace>
