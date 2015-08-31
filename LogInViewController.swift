@@ -19,7 +19,15 @@ class logInViewController : UIViewController {
     
     @IBAction func logInActionButton(sender: AnyObject) {
         if logInUsername.text != "" && logInPassword.text != "" {
-            self.performSegueWithIdentifier("LogInSegue", sender: self)
+            if logInsavePasswordSwitch.on {
+                println("logged in")
+            }
+            else {
+                println("save password switch is off")
+            }
+        }
+        else {
+            println("wut")
         }
     }
 }
